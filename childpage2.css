@@ -31,3 +31,13 @@ nav {
 h1 {
   text-align: center;
 }  
+html {
+  background-color:#c1f958;
+}
+.images {
+  text-align: center;
+}
+.context {
+  text-align: center;
+  font-size: 25px;
+}
